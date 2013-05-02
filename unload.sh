@@ -1,0 +1,1 @@
+sudo rmmod intercept_page_fault
